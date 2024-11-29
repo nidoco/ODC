@@ -1,3 +1,3 @@
 # descripcion
 
-trabajos ensamblador
+trabajos ensamblador del taller 7 al 12
